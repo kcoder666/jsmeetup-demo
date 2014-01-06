@@ -13,4 +13,5 @@ To run the generator demo, you need to install node.js version 0.11.+:
     node -v
 
 In addition, remember to execute code with --harmony flag:
+
     node --harmony app.js
